@@ -1,0 +1,17 @@
+Game - space shooter
+
+FEATURES
+background image
+ship image
+missle images
+background music
+missle sounds
+
+
+TO DO
+enemies
+
+enemy sounds
+ability to shoot enemy
+scoring
+levels
